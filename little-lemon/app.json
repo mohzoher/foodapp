@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "little-lemon",
+    "slug": "little-lemon",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "little-lemon"
+}
